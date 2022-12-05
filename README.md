@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gckopper
-- 👀 I’m interested in HIGH-PERFORMANCE, servers and I've been getting more and more into hacking recently
-- 🌱 I’m currently learning golang and java!
+- 👀 I’m interested in... performace, optimization and maths
+- 🌱 I’m currently learning EVERYTHING!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me [email me!](mailto://gabriel@gck.dev.br)
 
