@@ -1,10 +1,10 @@
 ## Intro
 - Hi, I’m @gckopper
-- I’m interested in... web backend, games, dev tooling and related areas
-- I’m currently learning Rust!
-- I’m looking to collaborate on anything
+- I’m interested in... telecom, web backend, games, dev tooling and related areas
+- I’m currently learning about 5G and C++!
+- I’m looking to collaborate on anything that is fun!
 - I'm very curious and love to test things and try to break them!
-- How to reach me [email me!](mailto://gabriel@gck.dev.br)
+- How to reach me? [Email me!](mailto://gabriel@gck.dev.br)
 <!---
 ## Programming languages
 
